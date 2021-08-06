@@ -1,1 +1,1 @@
-# Django-chat-application
+# Django-blog-website
